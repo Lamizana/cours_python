@@ -58,7 +58,7 @@ Regardons comment il gére les nombres entiers car se sont les plus facile à ut
 $ python3
 ```
 
-##### ==Nombres entiers==:
+##### Nombres entiers:
 - On peut additionner(+), soustraire(-), multiplier(*) et diveiser(/) des nombres entiers dans python:
 ```python
 >>> 2 + 3
@@ -93,7 +93,7 @@ On peut utiliser les parenthèses pour modifier l'ordre des opérations et lui d
 20
 ```
 
-##### ==Nombres flottants==:
+##### Nombres flottants:
 Python qualifie de *flottant* tout nombre comportant **un point comme séparateur décimal**.
 ```python
 >>> 0.1 + .1
@@ -108,7 +108,7 @@ Python qualifie de *flottant* tout nombre comportant **un point comme séparateu
 > [!NOTE]
 > Python peut parfois obtenir un nombre arbitraire de décimales dans la réponse, cela a peu de conséquences.
 
-##### ==Nombres entiers et nombres flottants==:
+##### Nombres entiers et nombres flottants:
 Lorsqu'on divise 2 nombres (meme si ce sont des nombres entiers) et que le résultat est un nombre entier, **on obtient toujours un nombre flottant**.
 ```python
 >>> 4 / 2
