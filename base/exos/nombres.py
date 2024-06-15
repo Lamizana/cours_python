@@ -1,3 +1,4 @@
+# cours/base/exos/nombres.py
 ###############################################################################
 # Exercices: 2.8 à 2.9  source:"Petite lecon de python"                       #
 # Gestion des nombres.                                       - 15/juin/2024 - #
@@ -14,12 +15,11 @@ Ecrire des opérations d'addition, de soustraction, de multiplication et de divi
 print("---------------------------------------------------------------------")
 print("Exos 2-8: Nombre huit.")
 
-
 print(7 + 1)
 print(16 / 2)
 print(12 - 4)
 print(45 - 37)
-###############################################################################
+print("---------------------------------------------------------------------")
 
 ###############################################################################
 # Exos 2-9: Nombre préféré.
@@ -28,7 +28,7 @@ Utiliser une variable pour stocker notre nombre préféré.
     - Avec cette variable, créer un messsage qui indique ce nombre.
     - Afficher le message.
 """
-print("\n---------------------------------------------------------------------")
+print("---------------------------------------------------------------------")
 print("Exos 2-9: Nombre préféré.")
 
 name = "Zhed"
@@ -36,4 +36,4 @@ favorite_number = 12
 message = f"Welcome {name} !\nVotre nombre est: {favorite_number}."
 
 print(message)
-###############################################################################
+print("---------------------------------------------------------------------")

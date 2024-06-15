@@ -1,3 +1,4 @@
+# cours/base/full_name.py
 ###############################################################################
 # Reprise python (les bases)                                  - 10/juin/2024 -
 # Utliser 2 variables (string) pour representer un nom et un prénom.

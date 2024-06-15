@@ -1,13 +1,10 @@
-------------------------------------------------------------------------------
 # Ensemble de connaissances relatives à python.
-> Created by alex Lamizana in 07/06/2024
->
-> - Last update in 15/06/2024.
-------------------------------------------------------------------------------
+> Created by alex Lamizana in 07/06/2024 - last update in 15/06/2024.
+----------------------------------------------------------------------------
 
 On va faire un survol global mais précis de toutes les fonctionnalitées python.
 
-### Sommaire:
+# Sommaire:
 1. [LES BASES.](#les-bases)
     - [[1] - Mise en route.](#mise-en-route)
     - [[2] - Variables et types de données simples.](#variables-et-types-de-données-simples)
@@ -15,17 +12,17 @@ On va faire un survol global mais précis de toutes les fonctionnalitées python
 
 2. [PROJETS.](#projets)
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 # LES BASES
----
+----------------------------------------------------------------------------
 ### Mise en route
-[Sommaire](#sommaire)
+[Sommaire.](#sommaire)
 
 A faire...
 
 ----------------------------------------------------------------------------
 ## Variables et types de données simples
-[Sommaire](#sommaire)
+[Sommaire.](#sommaire)
 1. [Variables.](#variables)
 2. [Chaines de caractères.](#chaines-de-caractères)
 3. [Nombres.](#nombres)
@@ -41,19 +38,23 @@ A faire...
 
 ---
 ### Variables.
-[Sommaire](#sommaire)
+[Sommaire.](#sommaire)
 
-Les variables sont des étiquettes, elles sont souvent décrites comme des **boites qui stockent des valeurs**.
-> Une variable fait réference a une valeur.
+Les variables sont des *étiquettes*, elles sont souvent décrites comme des **boites qui stockent des valeurs**.
+> Une variable fait réference à une valeur.
 
----
+----------------------------------------------------------------------------
 ### Chaines de caractères.
-[Sommaire](#sommaire)
+[Sommaire.](#sommaire)
 
 A faire...
-[Lien exercices sur les chaine de caractères:](base/exos/casse_nom.py) 2-3 à 2-7
 
----
+[Lien exercices sur les chaine de caractères:](base/exos/casse_nom.py): exos 2-3 à 2-7.
+```
+file: cours/base/exos/casse_nom.py
+```
+
+----------------------------------------------------------------------------
 ### Nombres.
 [Sommaire](#sommaire)
 
@@ -170,7 +171,7 @@ Pour qu'une variable soit traitée comme un constante dans un code, ecrire sont 
 #### Exercices:
 [Lien exercices sur les nombres:](base/exos/nombres.py) 2-8 à 2-9
 
----
+----------------------------------------------------------------------------
 ### Commentaires.
 [Sommaire](#sommaire)
 Les commentaires sont extrémement utile dans la majorité des langages de programmation.
@@ -200,7 +201,6 @@ print("Bonjour tout le monde.")
 ```
 
 ##### Quel type de commentaires écrire?
-
 
 ##### Exercices:
 [Lien exercices sur les commentaires:](base/exos/commentaires.py) 2-10

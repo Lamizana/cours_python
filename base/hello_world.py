@@ -1,3 +1,4 @@
+# cours/base/hello_world.py
 ###############################################################################
 # Reprise python (les bases)                                  - 10/juin/2024 -
 # Création du prgramme standard "Hello world !"
