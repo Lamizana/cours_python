@@ -17,6 +17,7 @@
 ---
 ### Mise en route
 [Sommaire](#sommaire)
+
 A faire...
 
 ---
@@ -31,6 +32,7 @@ A faire...
     e. [Affectation multiples.](#affectation-multiples)
     f. [Constantes.](#constantes)
     f. [Exercices.](#exercices)
+   
 3. [Commentaires.](#commentaires)
 
 Les variables sont des étiquettes, elles sont souvent décrites comme des **boites qui stockent des valeurs**.
