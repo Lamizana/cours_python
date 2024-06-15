@@ -21,7 +21,7 @@
 A faire...
 
 ----------------------------------------------------------------------------
-### Variables et types de données simples
+## Variables et types de données simples
 [Sommaire](#sommaire)
 1. [Variables.](#variables)
 2. [Chaines de caractères.](#chaines-de-caractères)
@@ -37,21 +37,21 @@ A faire...
 4. [Commentaires.](#commentaires)
 
 ---
-#### Variables.
+### Variables.
 [Sommaire](#sommaire)
 
 Les variables sont des étiquettes, elles sont souvent décrites comme des **boites qui stockent des valeurs**.
 > Une variable fait réference a une valeur.
 
 ---
-#### Chaines de caractères.
+### Chaines de caractères.
 [Sommaire](#sommaire)
 
 A faire...
 [Lien exercices sur les chaine de caractères:](base/exos/casse_nom.py) 2-3 à 2-7
 
 ---
-#### Nombres.
+### Nombres.
 [Sommaire](#sommaire)
 
 En programmation, on utilise souvent des nombres pour mémoriser le score d'un jeu, représenter des données dans de visualisations, stocker des informations dans des applications web, etc.
@@ -64,7 +64,7 @@ $ python3
 ```
 
 ---
-##### Nombres entiers:
+#### Nombres entiers:
 - On peut additionner(+), soustraire(-), multiplier(*) et diveiser(/) des nombres entiers dans python:
 ```python
 >>> 2 + 3
@@ -99,7 +99,7 @@ On peut utiliser les parenthèses pour modifier l'ordre des opérations et lui d
 20
 ```
 ---
-##### Nombres flottants:
+#### Nombres flottants:
 Python qualifie de *flottant* tout nombre comportant **un point comme séparateur décimal**.
 ```python
 >>> 0.1 + .1
@@ -115,7 +115,7 @@ Python qualifie de *flottant* tout nombre comportant **un point comme séparateu
 > Python peut parfois obtenir un nombre arbitraire de décimales dans la réponse, cela a peu de conséquences.
 
 ---
-##### Nombres entiers et nombres flottants:
+#### Nombres entiers et nombres flottants:
 Lorsqu'on divise 2 nombres (meme si ce sont des nombres entiers) et que le résultat est un nombre entier, **on obtient toujours un nombre flottant**.
 ```python
 >>> 4 / 2
@@ -135,7 +135,7 @@ Lorsqu'on divise 2 nombres (meme si ce sont des nombres entiers) et que le résu
 > Par défaut, Python utilise un nombre flottant dans toute opération qui comprend un nombre flottant, meme si la sortie est nombre entier.
 
 ---
-##### Caractères de soulignement dans les nombres:
+#### Caractères de soulignement dans les nombres:
 Dans les nombres long, il est possible de **regrouper des chiffres à l'aide des caractères de soulignement**:
 ```python
 >>> age_univers = 14_000_000
@@ -145,7 +145,7 @@ Dans les nombres long, il est possible de **regrouper des chiffres à l'aide des
 > Python ne prend en compte les caractères de soulignement pour stocker les valeurs.
 
 ---
-##### Affectation multiples:
+#### Affectation multiples:
 On peut affecter des valeurs à plusieurs variables, en utilisant q'une seule ligne.
 C'est surtout utiliser pour **initialiser un ensembles de nombres**.
 ```python
@@ -155,7 +155,7 @@ Il faut séparer les noms de variables par des virgules, et faire de meme avec l
 Python *affecte chaque valeur a sa variable*.
 
 ---
-##### Constantes:
+#### Constantes:
 Une *constante* est une **variable dont la valeur reste inchangé** pendant toute la durée de vie du programme.
 Il n'existe pas dez constantes native dans python mais la norme ecrit en **majuscules** les variable à traiter comme telles.
 ```python
@@ -164,11 +164,11 @@ Il n'existe pas dez constantes native dans python mais la norme ecrit en **majus
 Pour qu'une variable soit traitée comme un constante dans un code, ecrire sont nom en majuscule.
 
 ---
-##### Exercices:
+#### Exercices:
 [Lien exercices sur les nombres:](base/exos/nombres.py) 2-8 à 2-9
 
 ---
-#### Commentaires.
+### Commentaires.
 [Sommaire](#sommaire)
 Les commentaires sont extrémement utile dans la majorité des langages de programmation.
 Dans les programmes plus long et complexe il est recommendé d'ajouter des notes expliquant
@@ -201,7 +201,7 @@ print("Bonjour tout le monde.")
 [Lien exercices sur les commentaires:](base/exos/commentaires.py) 2-10
 
 ----------------------------------------------------------------------------
-### Présentation des listes
+## Présentation des listes
 [Sommaire](#sommaire)
 
 
