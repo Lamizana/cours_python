@@ -59,7 +59,7 @@ $ python3
 ```
 
 ---
-##### [1.A] Nombres entiers:
+##### Nombres entiers:
 - On peut additionner(+), soustraire(-), multiplier(*) et diveiser(/) des nombres entiers dans python:
 ```python
 >>> 2 + 3
