@@ -58,6 +58,7 @@ Regardons comment il gére les nombres entiers car se sont les plus facile à ut
 $ python3
 ```
 
+---
 ##### Nombres entiers:
 - On peut additionner(+), soustraire(-), multiplier(*) et diveiser(/) des nombres entiers dans python:
 ```python
