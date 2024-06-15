@@ -1,8 +1,11 @@
+------------------------------------------------------------------------------
 # Ensemble de connaissances relatives à python.
-> Created by alex Lamizana in 07/06/2024.
+> Created by alex Lamizana in 07/06/2024
+>
+> - Last update in 15/06/2024.
+------------------------------------------------------------------------------
 
-> [!NOTE]
-> On va faire un survol global mais précis de toutes les fonctionnalitées python.
+On va faire un survol global mais précis de toutes les fonctionnalitées python.
 
 ### Sommaire:
 1. [LES BASES.](#les-bases)
