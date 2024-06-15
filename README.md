@@ -65,8 +65,8 @@ $ python3
 
 ---
 #### Nombres entiers:
-- On peut additionner(+), soustraire(-), multiplier(*) et diveiser(/) des nombres entiers dans python:
-```python
+- On peut additionner(+), soustraire(-), multiplier(*) et diviser(/) des nombres entiers dans python:
+````python
 >>> 2 + 3
 5
 >>> 3 - 2
@@ -75,7 +75,7 @@ $ python3
 6
 >>> 3 / 2
 1.5
-```
+````
 
 Dans une session de terminal, python renvoie **le résultat de l'opération**.
 Il utilise 2 symboles de multiplication pour représenter les exposants:
