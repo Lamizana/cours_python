@@ -178,7 +178,7 @@ la démarche que l'on a suivit.
 ##### Comment écrire des commentaires:
 Dans Python, le croisillon (#) ***désigne un commentaire***, l'interpréteur Python *ignore tout ce qui suit ce caractère*.
 ```python
-comment.py
+# comment.py
 
 # Dire bonjour a tout le monde:
 print("Bonjour tout le monde.")
@@ -186,7 +186,7 @@ print("Bonjour tout le monde.")
 
 Pour un commentaire sur plusieurs lignes:
 ```python
-comment.py
+# comment.py
 
 """
 Commmentaire sur plusieurs lignes:
