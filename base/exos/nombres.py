@@ -1,4 +1,4 @@
-# cours/base/exos/nombres.py
+# cours_python/base/exos/nombres.py
 ###############################################################################
 # Exercices: 2.8 à 2.9  source:"Petite lecon de python"                       #
 # Gestion des nombres.                                       - 15/juin/2024 - #

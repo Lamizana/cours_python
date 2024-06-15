@@ -1,4 +1,4 @@
-# cours/base/exos/commentaires.py
+# cours_python/base/exos/commentaires.py
 ###############################################################################
 # Exercices: 2.10 source:"Petite lecon de python"                             #
 # Gestion et utilisation des commentaires.                   - 15/juin/2024 - #
