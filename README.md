@@ -1,4 +1,4 @@
-# Ensembles de connaissances relatives à python3
+# Ensemble de connaissances relatives à python.
 > Created by alex Lamizana in 07/06/2024.
 
 > [!NOTE]
@@ -13,18 +13,19 @@
 2. [PROJETS.](#projets)
 
 ------------------------------------------------------------------------------
-## LES BASES
+# LES BASES
 ---
 ### Mise en route
 [Sommaire](#sommaire)
 
 A faire...
 
----
+----------------------------------------------------------------------------
 ### Variables et types de données simples
 [Sommaire](#sommaire)
-1. [Chaines de caractères.](#chaines-de-caractères)
-2. [Nombres.](#nombres)
+1. [Variables.](#variables)
+2. [Chaines de caractères.](#chaines-de-caractères)
+3. [Nombres.](#nombres)
     - [Nombres entiers.](#nombres-entiers)
     - [Nombres flottants.](#nombres-flottants)
     - [Nombres entiers et nombres flottants.](#nombres-entiers-et-nombres-flottants)
@@ -33,7 +34,11 @@ A faire...
     - [Constantes.](#constantes)
     - [Exercices.](#exercices)
    
-3. [Commentaires.](#commentaires)
+4. [Commentaires.](#commentaires)
+
+---
+#### Variables.
+[Sommaire](#sommaire)
 
 Les variables sont des étiquettes, elles sont souvent décrites comme des **boites qui stockent des valeurs**.
 > Une variable fait réference a une valeur.
@@ -42,8 +47,8 @@ Les variables sont des étiquettes, elles sont souvent décrites comme des **boi
 #### Chaines de caractères.
 [Sommaire](#sommaire)
 
-A faire.
-[Lien exercices sur les chaine de carcatères:](base/exos/casse_nom.py) 2-3 à 2-7
+A faire...
+[Lien exercices sur les chaine de caractères:](base/exos/casse_nom.py) 2-3 à 2-7
 
 ---
 #### Nombres.
@@ -170,28 +175,49 @@ Dans les programmes plus long et complexe il est recommendé d'ajouter des notes
 la démarche que l'on a suivit.
 > Un commentaire permet d'écrire des notes dans un programme.
 
----
 ##### Comment écrire des commentaires:
+Dans Python, le croisillon (#) ***désigne un commentaire***, l'interpréteur Python *ignore tout ce qui suit ce caractère*.
+```python
+comment.py
+# Dire bonjour a tout le monde:
+print("Bonjour tout le monde.")
+```
+
+Pour un commentaire sur plusieurs lignes:
+```python
+comment.py
+"""
+Commmentaire sur plusieurs lignes:
+    - pour afficher plus d'informations.
+    - Dire bonjour à tout le monde.
+"""
+print("Bonjour tout le monde.")
+```
 
 ##### Quel type de commentaires écrire?
 
----
+
 ##### Exercices:
 [Lien exercices sur les commentaires:](base/exos/commentaires.py) 2-10
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 ### Présentation des listes
 [Sommaire](#sommaire)
 
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------
+### Utilisations des listes
+[Sommaire](#sommaire)
 
-[4] - Utilisations des listes
+----------------------------------------------------------------------------
+
+
+
 [6] - Instrctions if
 [7] - Dictionaires
 
-------------------------------------------------------------------------------
-## PROJETS
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------
+# PROJETS
+----------------------------------------------------------------------------
 
 > Pour tout Branquignols qui comprennent rien à rien, je suis pareil, paratgeons notres detresse...
