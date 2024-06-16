@@ -7,7 +7,7 @@
 ###############################################################################
 # Exos 2-10: Ajout de commentaires.
 """
-Reprendre 2 progammes au choix et y ajouter des commentaires sur une et plusieurs lignes pertinents.
+Reprendre 2 progammes au choix et y ajouter des commentaires pertinents sur une et plusieurs lignes.
 """
 print("---------------------------------------------------------------------")
 print("Exos 2-3: Ajout de commentaires.")
@@ -23,4 +23,3 @@ message = f"Bonjour {name}, Tu apprends les commentaires !!"
 # Affiche le message:
 print(message)
 print("---------------------------------------------------------------------")
-###############################################################################
