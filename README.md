@@ -32,11 +32,11 @@ A faire...
     - [Caractères de soulignement dans les nombres.](#caractères-de-soulignement-dans-les-nombres)
     - [Affectation multiples.](#affectation-multiples)
     - [Constantes.](#constantes)
-    - [Exercices.](#exercices)
-   
+    - [Exercices sur les nombres.](#exercices-sur-les-nombres)
 4. [Commentaires.](#commentaires)
-
----
+    - [Exercices commentaires.](#exercices-commentaires)
+    
+----------------------------------------------------------------------------
 ### Variables.
 [Sommaire.](#sommaire)
 
@@ -168,17 +168,18 @@ Il n'existe pas dez constantes native dans python mais la norme ecrit en **majus
 Pour qu'une variable soit traitée comme un constante dans un code, ecrire sont nom en majuscule.
 
 ---
-#### Exercices:
+#### Exercices sur les nombres:
 [Lien exercices sur les nombres:](base/exos/nombres.py) 2-8 à 2-9
 
 ----------------------------------------------------------------------------
 ### Commentaires.
 [Sommaire](#sommaire)
+
 Les commentaires sont extrémement utile dans la majorité des langages de programmation.
 Dans les programmes plus long et complexe il est recommendé d'ajouter des notes expliquant
 la démarche que l'on a suivit.
 > Un commentaire permet d'écrire des notes dans un programme.
-
+---
 ##### Comment écrire des commentaires:
 Dans Python, le croisillon (#) ***désigne un commentaire***, l'interpréteur Python *ignore tout ce qui suit ce caractère*.
 ```python
@@ -199,30 +200,38 @@ Commmentaire sur plusieurs lignes:
 """
 print("Bonjour tout le monde.")
 ```
-
+---
 ##### Quel type de commentaires écrire?
 
-##### Exercices:
+---
+##### Exercices commentaires.:
 [Lien exercices sur les commentaires:](base/exos/commentaires.py) 2-10
 
 ----------------------------------------------------------------------------
 ## Présentation des listes
-[Sommaire](#sommaire)
-
-
-----------------------------------------------------------------------------
-### Utilisations des listes
-[Sommaire](#sommaire)
+[Sommaire.](#sommaire)
+- A faire...
 
 ----------------------------------------------------------------------------
+## Utilisations des listes
+[Sommaire.](#sommaire)
+- A faire...
 
+----------------------------------------------------------------------------
+## Instructions if
+[Sommaire.](#sommaire)
+- A faire...
 
-
-[6] - Instrctions if
-[7] - Dictionaires
+----------------------------------------------------------------------------
+## Dictionaires
+[Sommaire.](#sommaire)
+- A faire...
 
 ----------------------------------------------------------------------------
 # PROJETS
-----------------------------------------------------------------------------
+[Sommaire.](#sommaire)
+- A faire...
 
+----------------------------------------------------------------------------
 > Pour tout Branquignols qui comprennent rien à rien, je suis pareil, paratgeons notres detresse...
+----------------------------------------------------------------------------
