@@ -47,7 +47,7 @@ A faire...
 
 ----------------------------------------------------------------------------
 
-### Variables
+#### Variables
 
 [Sommaire.](#sommaire)
 
@@ -56,7 +56,7 @@ Les variables sont des *étiquettes*, elles sont souvent décrites comme des **b
 
 ----------------------------------------------------------------------------
 
-### Chaines de caractères
+#### Chaines de caractères
 
 [Sommaire.](#sommaire)
 
@@ -70,7 +70,7 @@ file: cours/base/exos/casse_nom.py
 
 ----------------------------------------------------------------------------
 
-### Nombres
+#### Nombres
 
 [Sommaire](#sommaire)
 
@@ -85,7 +85,9 @@ $ python3
 >>>
 ```
 
-#### Nombres entiers
+----------------------------------------------------------------------------
+
+##### Nombres entiers
 
 - On peut additionner(+), soustraire(-), multiplier(*) et diviser(/) des nombres entiers dans python:
 
@@ -124,7 +126,9 @@ On peut utiliser les parenthèses pour modifier l'ordre des opérations et lui d
 20
 ```
 
-#### Nombres flottants
+----------------------------------------------------------------------------
+
+##### Nombres flottants
 
 Python qualifie de *flottant* tout nombre comportant **un point comme séparateur décimal**.
 
@@ -142,7 +146,9 @@ Python qualifie de *flottant* tout nombre comportant **un point comme séparateu
 > [!NOTE]
 > Python peut parfois obtenir un nombre arbitraire de décimales dans la réponse, cela a peu de conséquences.
 
-#### Nombres entiers et nombres flottants
+----------------------------------------------------------------------------
+
+##### Nombres entiers et nombres flottants
 
 Lorsqu'on divise 2 nombres (meme si ce sont des nombres entiers) et que le résultat est un nombre entier, **on obtient toujours un nombre flottant**.
 
@@ -165,7 +171,9 @@ Lorsqu'on divise 2 nombres (meme si ce sont des nombres entiers) et que le résu
 > [!IMPORTANT]
 > Par défaut, Python utilise un nombre flottant dans toute opération qui comprend un nombre flottant, meme si la sortie est nombre entier.
 
-#### Caractères de soulignement dans les nombres
+----------------------------------------------------------------------------
+
+##### Caractères de soulignement (underscore) dans les nombres
 
 Dans les nombres long, il est possible de **regrouper des chiffres à l'aide des caractères de soulignement**:
 
@@ -177,7 +185,9 @@ Dans les nombres long, il est possible de **regrouper des chiffres à l'aide des
 
 > Python ne prend en compte les caractères de soulignement pour stocker les valeurs.
 
-#### Affectation multiples
+----------------------------------------------------------------------------
+
+##### Affectation multiples
 
 On peut affecter des valeurs à plusieurs variables, en utilisant q'une seule ligne.
 C'est surtout utiliser pour **initialiser un ensembles de nombres**.
@@ -187,26 +197,28 @@ C'est surtout utiliser pour **initialiser un ensembles de nombres**.
 ```
 
 Il faut séparer les noms de variables par des virgules, et faire de meme avec les valeurs.
-Python *affecte chaque valeur a sa variable*.
+Python *affecte chaque valeur à sa variable*.
 
-#### Constantes
+----------------------------------------------------------------------------
+
+##### Constantes
 
 Une *constante* est une **variable dont la valeur reste inchangé** pendant toute la durée de vie du programme.
-Il n'existe pas dez constantes native dans python mais la norme ecrit en **majuscules** les variable à traiter comme telles.
+Il n'existe pas de constantes native dans python mais la convention est d'écrire **majuscules** les variables à traiter comme telles.
 
 ```python
 >>> MAX_PLAYER = 20
 ```
 
-Pour qu'une variable soit traitée comme un constante dans un code, ecrire sont nom en majuscule.
+----------------------------------------------------------------------------
 
-#### Exercices sur les nombres
+##### Exercices sur les nombres
 
 [Lien exercices sur les nombres:](base/exos/nombres.py) 2-8 à 2-9
 
 ----------------------------------------------------------------------------
 
-### Commentaires
+#### Commentaires
 
 [Sommaire](#sommaire)
 
@@ -215,7 +227,9 @@ Dans les programmes plus long et complexe il est recommendé d'ajouter des notes
 la démarche que l'on a suivit.
 > Un commentaire permet d'écrire des notes dans un programme.
 
-#### Comment écrire des commentaires
+----------------------------------------------------------------------------
+
+##### Comment écrire des commentaires
 
 Dans Python, le croisillon (#) ***désigne un commentaire***, l'interpréteur Python *ignore tout ce qui suit ce caractère*.
 
@@ -239,9 +253,9 @@ Commmentaire sur plusieurs lignes:
 print("Bonjour tout le monde.")
 ```
 
-#### Quel type de commentaires écrire?
+##### Quel type de commentaires écrire?
 
-#### Exercices commentaires
+##### Exercices commentaires
 
 [Lien exercices sur les commentaires:](base/exos/commentaires.py) 2-10
 
@@ -286,5 +300,5 @@ print("Bonjour tout le monde.")
 - A faire...
 
 ----------------------------------------------------------------------------
-> Pour tout Branquignols qui comprennent rien à rien, je suis pareil, paratgeons notres detresse...
+> Pour tout Branquignols qui comprend rien à rien, je suis pareil, partageons notre détresse...
 ----------------------------------------------------------------------------
