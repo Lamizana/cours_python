@@ -1,6 +1,6 @@
 # Ensemble de connaissances relatives à python
 >
-> Created by alex Lamizana in 07/06/2024 - last update in 15/06/2024.
+> Created by alex Lamizana in 07/06/2024 - last update in 19/06/2024.
 ----------------------------------------------------------------------------
 
 On va faire un survol global mais précis de toutes les fonctionnalitées python.
@@ -121,7 +121,7 @@ On peut utiliser les parenthèses pour modifier l'ordre des opérations et lui d
 # Respecte l'ordre arithmetique de base, multiplication avant addition.
 >>> 2 + 3 * 4
 14
-# Force le prioritées des opérations.
+# Force les prioritées des opérations.
 >>> (2 + 3) * 4
 20
 ```
@@ -225,6 +225,7 @@ Il n'existe pas de constantes native dans python mais la convention est d'écrir
 Les commentaires sont extrémement utile dans la majorité des langages de programmation.
 Dans les programmes plus long et complexe il est recommendé d'ajouter des notes expliquant
 la démarche que l'on a suivit.
+
 > Un commentaire permet d'écrire des notes dans un programme.
 
 ----------------------------------------------------------------------------
@@ -265,7 +266,65 @@ print("Bonjour tout le monde.")
 
 [Sommaire.](#sommaire)
 
-- A faire...
+1. [Definition d'une liste.](#définition-dune-liste)
+   - [Accéder à plusieurs éléments d'une liste.](#accéder-à-plusieurs-éléments-dune-liste)
+   - [Les positions d'index débutent à 0, pas à 1.](#les-positions-dindex-débutent-à-0-pas-à-1)
+
+2. [Modifier, ajouter , supprimer des éléments.](#chaines-de-caractères)
+3. [Organiser une liste.](#nombres)
+4. [Erreur indexation de listes.](#commentaires)
+
+----------------------------------------------------------------------------
+
+#### Définition d'une liste
+
+[Lien cours bicycles.py.](base/bicycles.py)
+Une **liste** est une ***collection d'éléments dans un ordre particulier***.
+
+- Elle peut contenir:
+  - Les lettres de l'alphabet.
+  - les chiffres et les nombres.
+  - des chaines de caractères.
+
+On peut intégrer **ce que l'on veut** dans une liste. De plus, comme une liste contiient plusieurs éléments il vaut mieux lui **donner un nom au pluriel**.
+Exemple: `letters`.
+
+Dans ***Python***, les crochets `[]` *délimitent* une liste, et chaque élément est séparéé par un virgule.
+
+```python
+# Initialisation et assignation d'une liste:
+bicycles = ["treck", "cannondale", "redline", "bmx"]
+print(bicycles)
+```
+
+- Si l'on demande à ***Python*** d'afficher une liste, il renvoie une **representation de la liste**:
+  
+```python
+['treck', 'cannondale', 'redline', 'bmx']
+```
+
+Voyons comment accéder à chaque éléments d'une liste.
+
+----------------------------------------------------------------------------
+
+##### Accéder à plusieurs éléments d'une liste
+
+Les listes étant **des ensemble ordonnées**, on peut acéder à l'un des éléments en indiquant à ***Python*** sa position, ou **index**.
+Pour acéder à un élément d'une liste, écrire le *nom de la liste suivie de l'index de l'élément entre crochet*.
+
+```python
+>>> print(bicycles[0])
+>>> treck
+```
+
+Lorsque nous demandons un élément d'une liste, Python le renvoie *sans crochet*.
+On peut appliquer les **methode de chaines**  à un élément d'une liste.
+
+----------------------------------------------------------------------------
+
+##### Les positions d'index débutent à 0, pas à 1
+
+Python considère que le **1er élément d'une liste commence à ***0*** et pas à 1**
 
 ----------------------------------------------------------------------------
 
