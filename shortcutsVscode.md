@@ -1,7 +1,9 @@
 # Raccourci clavier Visual Studio Code
+
 > Created by alex Lamizana in 07/06/2024 - last update in 15/06/2024.
 
-### SOMMAIRES:
+## SOMMAIRES
+
 1. [Géneral.](#géneral) 
 2. [Édition de base.](#édition-de-base) 
 3. [Navigation.](#navigation)  
@@ -14,8 +16,8 @@
 10. [Debug.](#Debug)
 11. [Terminal intégré.](#terminal-intégré)
 
-
 ------------------------------------------------------------------------------
+
 ## Géneral
 
 - ***Ctrl + Shift + p, F1 :***

@@ -278,7 +278,7 @@ print("Bonjour tout le monde.")
 
 #### Définition d'une liste
 
-[Lien cours bicycles.py.](base/bicycles.py)
+[Lien cours listes.](base/listes.py)
 Une **liste** est une ***collection d'éléments dans un ordre particulier***.
 
 - Elle peut contenir:
