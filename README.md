@@ -30,7 +30,7 @@ A faire...
 
 ### Variables et types de données simples
 
-[Dossier Variables >>](/base/variables/README.md)
+[Variables >>](/base/variables/README.md)
 
 1. Variables.
 2. Chaines de caractères.
@@ -49,7 +49,7 @@ A faire...
 
 ### Présentation des listes
 
-[Dossier Listes >>](/base/listes/README.md)
+[Listes >>](/base/listes/README.md)
 
 1. Definition d'une liste.
 2. Modifier, ajouter , supprimer des éléments.
