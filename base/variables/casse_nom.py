@@ -1,4 +1,4 @@
-# cours_python/base/exos/casse_nom.py
+# cours_python/base/variables/casse_nom.py
 ###############################################################################
 # Exercices: 2.3 à 2.7  source:"Petite lecon de python"                       #
 # Gestion de la casse avec une chaine de caractères.         - 15/juin/2024 - #

@@ -53,7 +53,7 @@ print("\n--Age pour voter--")
 age = 19
 # Si mon âge est supérieur ou égal a 18 alors:
 if age >= 18:
-    print(age >=18)
+    print(age >= 18)
     print("Vous avez l'âge de voter.")
 
 
@@ -118,7 +118,7 @@ print("Votre pizza est prête.")
 # Tester de conditions utilisant les mots-clé "and" et "or":
 print("\nTest utilisant les mots-clé and et or:")
 
-amis =["alex", "hervé", "benoit", "ben"]
+amis = ["alex", "hervé", "benoit", "ben"]
 
 # "and" permet de déterminer si 2 conditions sont vrais:
 if "alex" in amis and "hervé" in amis:
@@ -146,7 +146,7 @@ if user_1 or user_2 in amis:
 print("\n--liste garniture--")
 
 # création de la liste
-garnitures_pizza =["champignons", "poivrons verts", "suppléments de fromages"]
+garnitures_pizza = ["champignons", "poivrons verts", "suppléments de fromages"]
 
 # On boucle la liste et on affiche sa valeur:
 for i in garnitures_pizza:
