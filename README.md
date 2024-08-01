@@ -11,6 +11,7 @@ On va faire un survol global mais précis de toutes les fonctionnalitées python
     - [[1] - Mise en route.](#mise-en-route)
     - [[2] - Variables et types de données simples.](#variables-et-types-de-données-simples)
     - [[3] - Présentation des listes.](#présentation-des-listes)
+    - [[8] - Fonctions.](#fonctions)
 
 2. [PROJETS.](#projets)
 
@@ -54,31 +55,7 @@ A faire...
 1. Definition d'une liste.
 2. Modifier, ajouter , supprimer des éléments.
 3. Organiser une liste.
-4. Erreur indexation de listes.](#commentaires)
-
-----------------------------------------------------------------------------
-
-#### Definition d'une liste
-
-[Lien cours bicycles.py.](base/bicycles.py)
-Une **liste** est une ***collection d'éléments dans un ordre particulier***.
-
-- Elle peut contenir:
-  - Les lettres de l'alphabet.
-  - les chiffres et les nombres.
-  - des chaines de carctères.
-
-On peut intégrer **ce que l'on veut** dans une liste. De plus, comme une liste contiient plusieurs éléments il vaut mieux lui **donner un nom au pluriel**.
-Exemple: `letters`.
-
-Dans ***Python***, les crochets `[]` *délimitent* une liste, et chaque élément est séparéé par un virgule.
-
-
-### Utilisations des listes
-
-[Sommaire.](#sommaire)
-
-- A faire...
+4. Erreur indexation de listes.
 
 ----------------------------------------------------------------------------
 
@@ -95,6 +72,22 @@ Dans ***Python***, les crochets `[]` *délimitent* une liste, et chaque élémen
 [Sommaire.](#sommaire)
 
 - A faire...
+
+----------------------------------------------------------------------------
+
+### Fonctions
+
+[Sommaire.](#sommaire)
+
+[Fonctions >>](/base/fonctions/README.md)
+
+1. Définir une fonction.
+2. Transmettre des arguments.
+3. Valeurs de retour.
+4. Transmettre une liste.
+5. Transmettre un nombre arbitraire d'éléments.
+6. Stocker les fonctions dans des module.
+7. Mettre en forme les fonctions.
 
 ----------------------------------------------------------------------------
 
