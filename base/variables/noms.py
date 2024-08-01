@@ -1,4 +1,4 @@
-# cours_python/base/exos/noms.py
+# cours_python/base/variables/noms.py
 ###############################################################################
 # Exercices: 3.1                              source:"Petite lecon de python" #
 # Gestion des listes.                                       - 19/juin/2024 -  #

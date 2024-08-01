@@ -1,4 +1,4 @@
-# cours_python/base/listes.py
+# cours_python/base/listes/listes.py
 ###############################################################################
 # Présentation des listes.      source:"Petite lecon de python"               #
 # Compréhesion et gestion de bases des listes.                                #
