@@ -15,8 +15,12 @@ def greet_user() -> None:
 def longueur(x: str) -> int:
     """Retourne la longueur d'une chaine de caractère"""
     
+    # isistance retourne Faux si le paramètre x n'est pas une chaîne de caractère
+    if not isinstance(x, str):  
+        return "Erreur ! Pas un str"
     return len(x)
 
-len = longueur("Hello !")
-print(f"longueur de la chaine {len}")
+
 greet_user()
+len = longueur("hello !")
+print(f"- Longueur de la chaine: {len}")

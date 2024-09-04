@@ -5,6 +5,7 @@
 ## Sommaire
 
 1. [Définir une fonction.](#définir-une-fonction)
+2. [Annotation de type.](#annotation-de-type)
 2. [Transmettre des arguments.](#chaines-de-caractères)
 3. [Valeurs de retour.](#nombres)
 4. [Transmettre une liste.](#commentaires)
@@ -35,3 +36,38 @@ def greet_user():
 
 greet_user()
 ```
+
+----------------------------------------------------------------------------
+
+## Annotation de type
+
+[Lien cours: greet_user.py.](/base/fonctions/greeter.py)
+
+C'est quelque chose de bien connu : sous Python, pas besoin de spécifier les types des variables. Cette flexibilité permet de convertir très facilement des variables, ce qui est souvent le cas lorsque l'on manipule des données.
+
+En revanche, lorsque l'on défini des fonctions, on aimerait insister sur le fait que certains paramètres soient d'un certain type, pour éviter des incohérences, voir des erreurs dans la suite du programme. Pour faciliter la lecture et la documentation des fonctions, la PEP 3107 autorise l'annotation des types des paramètres d'une fonction. Voyons en détail comment cela fonctionne.
+
+### Les annotations de fonctions
+
+Prenons la fonction longueur qui va calculer la longueur d'une chaîne de caractère.
+
+```python
+def longueur(x):
+  return len(x)
+
+longueur("Hello !")
+```
+
+Cette fonction requiert le paramètre x *qui est une chaîne de caractères*, et retourne un entier qui correspond à la longueur de cette même chaîne.
+
+Comment spécifier ces deux types ? C'est là que les **annotations de fonctions** interviennent. Chaque paramètre va être suivi de son type, et la nous allons pouvoir spécifier la type retourné par la fonction avec ```->```.
+
+```python
+def longueur(x: str) -> int:
+  return len(x)
+
+longueur("Hello !")
+```
+
+Cette fonction se lit : on s'attends à avoir un x de type chaîne de caractères, et retourne un entier.
+
