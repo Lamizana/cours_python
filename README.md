@@ -11,6 +11,7 @@ On va faire un survol global mais précis de toutes les fonctionnalitées python
     - [[1] - Mise en route.](#mise-en-route)
     - [[2] - Variables et types de données simples.](#variables-et-types-de-données-simples)
     - [[3] - Présentation des listes.](#présentation-des-listes)
+    - [[4] - Numpy et Pandas pour datascience.](#numpy-et-pandas-pour-datascience)
     - [[8] - Fonctions.](#fonctions)
 
 2. [PROJETS.](#projets)
@@ -24,6 +25,7 @@ On va faire un survol global mais précis de toutes les fonctionnalitées python
 ### Mise en route
 
 [Sommaire.](#sommaire)
+
 
 A faire...
 
@@ -59,6 +61,16 @@ A faire...
 
 ----------------------------------------------------------------------------
 
+### Numpy et Pandas pour datascience
+
+[Libairies pour datascience >>](/base/datascience/README.md)
+
+1. Manipuler des tableaux avec NumPy.
+2. Créer des data frames avec Pandas.
+3. Construire des data visualisations avec Matplotlib et Seaborn
+
+----------------------------------------------------------------------------
+
 ### Instructions if
 
 [Sommaire.](#sommaire)
@@ -82,12 +94,14 @@ A faire...
 [Fonctions >>](/base/fonctions/README.md)
 
 1. Définir une fonction.
-2. Transmettre des arguments.
-3. Valeurs de retour.
-4. Transmettre une liste.
-5. Transmettre un nombre arbitraire d'éléments.
-6. Stocker les fonctions dans des module.
-7. Mettre en forme les fonctions.
+2. Fonction main.
+3. Annotation de type.
+4. Transmettre des arguments.
+5. Valeurs de retour.
+6. Transmettre une liste.
+7. Transmettre un nombre arbitraire d'éléments.
+8. Stocker les fonctions dans des module.
+9. Mettre en forme les fonctions.
 
 ----------------------------------------------------------------------------
 

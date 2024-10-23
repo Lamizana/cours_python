@@ -5,13 +5,14 @@
 ## Sommaire
 
 1. [Définir une fonction.](#définir-une-fonction)
-2. [Annotation de type.](#annotation-de-type)
-2. [Transmettre des arguments.](#chaines-de-caractères)
-3. [Valeurs de retour.](#nombres)
-4. [Transmettre une liste.](#commentaires)
-5. [Transmettre un nombre arbitraire d'éléments.](#commentaires)
-6. [Stocker les fonctions dans des module.](#commentaires)
-7. [Mettre en forme les fonctions.](#commentaires)
+2. [Fonction main.](#fonction-main)
+3. [Annotation de type.](#annotation-de-type)
+4. [Transmettre des arguments.](#chaines-de-caractères)
+5. [Valeurs de retour.](#nombres)
+6. [Transmettre une liste.](#commentaires)
+7. [Transmettre un nombre arbitraire d'éléments.](#commentaires)
+8. [Stocker les fonctions dans des module.](#commentaires)
+9. [Mettre en forme les fonctions.](#commentaires)
 
 Une fonction est ***un bloc de code nommé***, créer pour effectuer une opération spécifique. Losrque l'on exécute une tache qu'on a définit dans une fonction on *appelle* la fonction qui en est responsable.
 > Grace aux fonctions, les progammes sont plus facile à écrire, à tester, à corriger.
@@ -36,6 +37,10 @@ def greet_user():
 
 greet_user()
 ```
+
+----------------------------------------------------------------------------
+
+## Fonction main
 
 ----------------------------------------------------------------------------
 
