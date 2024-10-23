@@ -63,7 +63,7 @@ A faire...
 
 ### Numpy et Pandas pour datascience
 
-[Libairies pour datascience >>](/base/datascience/README.md)
+[Libairies pour datascience >>](/base/datascience/datascience.ipynb)
 
 1. Manipuler des tableaux avec NumPy.
 2. Créer des data frames avec Pandas.
