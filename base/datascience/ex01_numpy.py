@@ -15,6 +15,7 @@ def transform_list(liste: list) -> np.array:
     return (array)
 
 
+# ---------------------------------------------------------------------
 def high_revenue(array: np.array) -> np.array:
     """créez un nouvel array haut_revenus dans lequel vous sélectionnerez 
     l'ensemble des revenus supérieurs ou égal à 3000€ :"""
@@ -23,6 +24,7 @@ def high_revenue(array: np.array) -> np.array:
     return (haut_revenue)
 
 
+# ---------------------------------------------------------------------
 def annual_revenue(revenue: np.array) -> float:
     """calculez dans un premier temps la somme des revenus annuelle.
     Pour rappel, les revenus listés ci dessus sont mensuels."""
@@ -32,6 +34,8 @@ def annual_revenue(revenue: np.array) -> float:
 
     return (revenue_annuel)
 
+
+# ---------------------------------------------------------------------
 def moyenne_revenue(array: np.array) -> float:
     """calculez la moyenne des revenus des 10 clients"""
 
@@ -39,6 +43,7 @@ def moyenne_revenue(array: np.array) -> float:
     return (moyenne)
 
 
+# ---------------------------------------------------------------------
 def main() -> int:
     """Fonction programme principal"""
 
