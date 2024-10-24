@@ -26,7 +26,6 @@ On va faire un survol global mais précis de toutes les fonctionnalitées python
 
 [Sommaire.](#sommaire)
 
-
 A faire...
 
 ----------------------------------------------------------------------------
@@ -66,6 +65,10 @@ A faire...
 [Libairies pour datascience >>](/base/datascience/datascience.ipynb)
 
 1. Manipuler des tableaux avec NumPy.
+    - Différenciez les arrays des listes classiques.
+    - Créez un array NumPy.
+    - Sélectionner des éléments au sein d’un array.
+    - Transformer des données en tableaux.
 2. Créer des data frames avec Pandas.
 3. Construire des data visualisations avec Matplotlib et Seaborn
 
