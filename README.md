@@ -12,7 +12,8 @@ On va faire un survol global mais précis de toutes les fonctionnalitées python
     - [[2] - Variables et types de données simples.](#variables-et-types-de-données-simples)
     - [[3] - Présentation des listes.](#présentation-des-listes)
     - [[4] - Numpy et Pandas pour datascience.](#numpy-et-pandas-pour-datascience)
-    - [[8] - Fonctions.](#fonctions)
+    - [[5] - Fonctions.](#fonctions)
+    - [[6] - Classe.](#classe)
 
 2. [PROJETS.](#projets)
 
@@ -105,6 +106,16 @@ A faire...
 7. Transmettre un nombre arbitraire d'éléments.
 8. Stocker les fonctions dans des module.
 9. Mettre en forme les fonctions.
+
+----------------------------------------------------------------------------
+
+### Classe
+
+[Sommaire.](#sommaire)
+
+[Classe >>](/base/classe/)
+
+1. Définir une CSlasse.
 
 ----------------------------------------------------------------------------
 
