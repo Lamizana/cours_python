@@ -1,3 +1,10 @@
+#####################################################################
+# Programme Python Type                                             #
+# auteur : A.Lamizana, Angouleme, 2224                              #
+# -*-coding:Utf-8 -*                                                #
+#####################################################################
+
+
 class Satellite(object):
     """
     Instancie des objets simulant des satellites artificiels

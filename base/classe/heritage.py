@@ -1,4 +1,10 @@
 #####################################################################
+# Programme Python Type                                             #
+# auteur : A.Lamizana, Angouleme, 2224                              #
+# -*-coding:Utf-8 -*                                                #
+#####################################################################
+
+
 class Mammifere(object):
     """
     Contient un ensemble de caracteristiques propre aux mammiferes.

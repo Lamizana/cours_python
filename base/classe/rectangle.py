@@ -1,3 +1,10 @@
+#####################################################################
+# Programme Python Type                                             #
+# auteur : A.Lamizana, Angouleme, 2224                              #
+# -*-coding:Utf-8 -*                                                #
+#####################################################################
+
+
 class Point(object):
     """
     Definition d'un point geometrique.

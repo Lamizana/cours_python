@@ -1,3 +1,10 @@
+#####################################################################
+# Programme Python Type                                             #
+# auteur : A.Lamizana, Angouleme, 2224                              #
+# -*-coding:Utf-8 -*                                                #
+#####################################################################
+
+
 class Time(object):
     """
     Definition d'objet temporel.

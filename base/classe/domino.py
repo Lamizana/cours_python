@@ -1,3 +1,10 @@
+#####################################################################
+# Programme Python Type                                             #
+# auteur : A.Lamizana, Angouleme, 2224                              #
+# -*-coding:Utf-8 -*                                                #
+#####################################################################
+
+
 class Domino(object):
     """
     Classe simulant les pieces d un jeu de Domino.
